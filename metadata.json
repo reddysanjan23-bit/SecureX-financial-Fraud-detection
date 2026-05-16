@@ -1,0 +1,6 @@
+{
+  "name": "SecureX Fraud Detection",
+  "description": "Real-time fraud detection and surveillance system powered by Kafka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
